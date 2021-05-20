@@ -9,5 +9,12 @@ body{
 
 .cadre {
   margin-top: 150px;
+  
 }
 
+.image{
+  background-image: url('./images/meteo2.jpg');
+  opacity: .5;
+  padding-bottom: 300px;
+
+}
