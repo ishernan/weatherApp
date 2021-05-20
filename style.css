@@ -11,9 +11,7 @@ body{
   
 }
 
-.image{
-  background-image: url('./images/meteo2.jpg');
-  opacity: .5;
-  
+.box{
+  background: rgba(173, 212, 238, 0.3);
 }
 
