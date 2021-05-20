@@ -49,7 +49,10 @@ changer.addEventListener('click', ()=>{ //pour changer de ville
   recevoirTemperature(ville)
  
 })
-
+function erreur () {
+  ville = "Toulouse"
+  recevoirTemperature(ville); 
+}
 
 
 function recevoirTemperature(ville){    
